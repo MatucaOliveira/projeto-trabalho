@@ -1,0 +1,52 @@
+.cabecalho {
+    background-color: black;
+    height: 80px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.netflix {
+    margin: 1.6% 0 0 2%;
+    display: flex;
+}
+
+.imagem-netflix {
+    width: 100px;
+}
+
+.linha {
+    color: rgb(252, 252, 252);
+    height: 60%;
+    margin: 0px 0 0 8px;
+}
+
+.botao {
+    margin-top: 1.5%;
+    margin-right: 3%;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    padding: 5px;
+}
+
+.voltar {
+    background-color: rgb(247, 14, 14);
+    color: white;
+}
+
+.voltar:hover {
+    background-color: red;
+    color: white;
+}
+
+h1 {
+    margin-top: 10px;
+    margin-left: 40%;
+    margin-bottom: 30px;
+}
+
+p {
+    text-align: justify;
+}
